@@ -1,0 +1,6 @@
+# opt HF/aug-cc-pVQZ	
+	
+Hyrdogen
+	
+0 2	
+H	

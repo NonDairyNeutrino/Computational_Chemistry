@@ -1,0 +1,6 @@
+# opt HF/aug-cc-pVQZ	
+	
+Flourine
+	
+0 2	
+F	

@@ -1,0 +1,10 @@
+# opt b3lyp/6-31G(d)
+
+H3+ Linear
+
+1 1
+H
+H 1 R
+H 1 R 2 180.
+
+R 0.74

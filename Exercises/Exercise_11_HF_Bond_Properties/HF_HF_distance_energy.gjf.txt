@@ -1,0 +1,9 @@
+# opt HF/aug-cc-pVQZ	
+	
+hydrogen fluoride (HF)	
+	
+0 1	
+H	
+F 1 r	
+	
+r=1.0	
